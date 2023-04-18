@@ -29,5 +29,3 @@
 ![](https://cdn.midjourney.com/89c5d501-21bd-4646-9e40-0db7b162b306/0_3.webp)
 ## Image 14
 ![](https://cdn.midjourney.com/b005b1b6-ee50-4805-91dd-c81b062d5775/0_2.webp)
-## Image 15
-![](https://cdn.midjourney.com/0bfaf2e8-2ca5-4257-9fa3-c7e9d7c98674/0_1.webp)
